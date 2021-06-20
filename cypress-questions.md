@@ -20,7 +20,7 @@ Most testing tools (like Selenium) operate by running outside of the browser and
 
 Behind Cypress is a Node server process. Cypress and the Node process constantly communicate, synchronize, and perform tasks on behalf of each other. Having access to both parts (front and back) gives us the ability to respond to your application's events in real time, while at the same time work outside of the browser for tasks that require a higher privilege.
 
-Cypress also operates at the network layer by reading and altering web traffic on the fly. 
+Cypress also operates at the network layer by reading and altering web traffic on the fly. Communication between front end and backend can be manipulated or mocked using cypress.
 
 How we can install cypress only for dev:
 ----------------------------------------
