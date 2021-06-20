@@ -34,12 +34,3 @@ Add NPM Script for cypress
 
 Now its showtime, Let's run Cypress
 npm run cypress
-
-Questions
-----------
-
-What is node?
-
-What is npm?
-
-What is webpack and how to run app using webpack?
