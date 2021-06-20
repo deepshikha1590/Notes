@@ -20,7 +20,7 @@ Lets Try TODO APP
 
 **In order to run this project we need to have node and npm installed.**
 
-> npm install
+> npm install -- Installs the project dependencies.
 
  ![image](https://user-images.githubusercontent.com/2181212/122683007-eb06fe80-d1fc-11eb-9629-f4989b23f534.png)
 
