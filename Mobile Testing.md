@@ -63,3 +63,19 @@ Downside −
 *  Graphics are less accustomed with the operating system as compared to Native Apps.
 
 *  Hybrid Apps are slower than Native Apps.
+
+----------------------------------------------------------------------------------------------------------------
+
+**Simulators and Emulators**
+-----------------------------
+These are primarily software programs designed to provide simulation for important features of a smartphone. They are very similar in nature, so sometimes, they are used interchangeably.
+
+****A simulator/emulator cannot mimic the following features −
+
+* Mobile device battery
+* Mobile device’s camera
+* Difficult to mimic interruptions like incoming calls and SMS.
+* Not so much realistic simulation for mobile device memory usage.
+
+
+Note***Best practice indicates that, while actual development is in progress, we should use an emulator or a simulator. Before finalizing the product, there should be a sanity check with chosen real devices. For example, there is a huge number of Android smartphone users, so the smart choice is to have a sanity check for the latest Android device and regression can be conducted over simulators.
